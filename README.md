@@ -1,6 +1,6 @@
 # UIScrollView
 
-#### This is an example app that uses UIScrollView Feature.
+#### This is an example app that uses A UIScrollView Feature.
 
 
 * There are 3 images in an array which is centered in the middle of the screen.
